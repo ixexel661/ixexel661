@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/fastfetch.svg" alt="fastfetch — ixexel@cachyos" width="880">
+</p>
+
+<details>
+<summary>plain text</summary>
+
 ```
 $ fastfetch
 
@@ -15,10 +22,12 @@ $ fastfetch
   -====:
   .=====.                            Day Job ....... Next-gen automotive software
    :====-                            Night Shift ... Sleek web apps, shipped in Docker
-    -====:               ...         Working On .... OxiRun, just-t, just-jx,
-     -=====:.       .:=====-         .................. nyde
+    -====:               ...         Working On .... OxiRun, just-t, just-jx, nyde
+     -=====:.       .:=====-
       -===================-          Learning ...... Golang
        :=================:
          .-===========-.             ███ ███ ███ ███ ███ ███ ███ ███
             .:-----:.                ███ ███ ███ ███ ███ ███ ███ ███
 ```
+
+</details>

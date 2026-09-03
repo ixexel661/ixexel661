@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="548" viewBox="0 0 880 548"
+  font-family="'JetBrains Mono','Cascadia Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
+  role="img" aria-label="fastfetch output for ixexel@cachyos">
+  <defs>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00d68f" />
+      <stop offset="55%" stop-color="#2ee6a8" />
+      <stop offset="100%" stop-color="#0fb5c9" />
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12181f" />
+      <stop offset="100%" stop-color="#0b0f14" />
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="878" height="546" rx="12" fill="url(#bg)" stroke="#2a323d" />
+  <path d="M1 13a12 12 0 0 1 12-12h854a12 12 0 0 1 12 12v27H1z" fill="#161c24" />
+  <line x1="1" y1="40" x2="879" y2="40" stroke="#2a323d" />
+  <circle cx="24" cy="20.5" r="5.5" fill="#ff5f57" />
+  <circle cx="44" cy="20.5" r="5.5" fill="#febc2e" />
+  <circle cx="64" cy="20.5" r="5.5" fill="#28c840" />
+  <text x="440" y="25.5" font-size="12.5" fill="#7d8794" text-anchor="middle">ixexel@cachyos: ~</text>
+
+  <!-- logo -->
+  <text x="28" y="78" font-size="14.5" fill="url(#logo)" xml:space="preserve"><tspan x="28" dy="0">            .:-----:.</tspan><tspan x="28" dy="22">         .-===========-.</tspan><tspan x="28" dy="22">       :=================:</tspan><tspan x="28" dy="22">      -===================-</tspan><tspan x="28" dy="22">     -=====:.       .:=====-</tspan><tspan x="28" dy="22">    -====:               ...</tspan><tspan x="28" dy="22">   :====-</tspan><tspan x="28" dy="22">  .=====.</tspan><tspan x="28" dy="22">  -====:</tspan><tspan x="28" dy="22">  =====.</tspan><tspan x="28" dy="22">  =====.</tspan><tspan x="28" dy="22">  -====:</tspan><tspan x="28" dy="22">  .=====.</tspan><tspan x="28" dy="22">   :====-</tspan><tspan x="28" dy="22">    -====:               ...</tspan><tspan x="28" dy="22">     -=====:.       .:=====-</tspan><tspan x="28" dy="22">      -===================-</tspan><tspan x="28" dy="22">       :=================:</tspan><tspan x="28" dy="22">         .-===========-.</tspan><tspan x="28" dy="22">            .:-----:.</tspan></text>
+
+  <!-- header -->
+  <text x="300" y="78" font-size="14.5">
+    <tspan fill="#2ee6a8" font-weight="bold">ixexel</tspan>
+    <tspan fill="#7d8794">@</tspan>
+    <tspan fill="#58a6ff" font-weight="bold">cachyos</tspan>
+  </text>
+  <text x="300" y="100" font-size="14.5" fill="#3d4753">────────────────────────────────────────</text>
+
+  <!-- keys -->
+  <g font-size="14.5" font-weight="bold" fill="#2ee6a8">
+    <text x="300" y="122">OS</text>
+    <text x="300" y="144">Host</text>
+    <text x="300" y="166">Kernel</text>
+    <text x="300" y="210">Pronouns</text>
+    <text x="300" y="232">Languages</text>
+    <text x="300" y="254">Code</text>
+    <text x="300" y="276">Stack</text>
+    <text x="300" y="320">Day Job</text>
+    <text x="300" y="342">Night Shift</text>
+    <text x="300" y="364">Working On</text>
+    <text x="300" y="386">Learning</text>
+  </g>
+
+  <!-- values -->
+  <g font-size="14.5" fill="#c3ccd6">
+    <text x="420" y="122">CachyOS x86_64</text>
+    <text x="420" y="144">Lenovo ThinkPad P14s (AMD)</text>
+    <text x="420" y="166">linux-cachyos-bore</text>
+    <text x="420" y="210">he/him</text>
+    <text x="420" y="232">German, English</text>
+    <text x="442" y="254">TypeScript</text>
+    <text x="582" y="254">Go</text>
+    <text x="420" y="276">Next.js, Tailwind CSS, shadcn/ui</text>
+    <text x="420" y="298">better-auth, Prisma, PostgreSQL</text>
+    <text x="420" y="320">Next-gen automotive software</text>
+    <text x="420" y="342">Sleek web apps, shipped in Docker</text>
+    <text x="420" y="364">OxiRun, just-t, just-jx, nyde</text>
+    <text x="420" y="386">Golang</text>
+  </g>
+
+  <!-- language badges -->
+  <g font-size="9.5" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    <rect x="420" y="241" width="17" height="17" rx="3" fill="#3178c6" />
+    <text x="428.5" y="253">TS</text>
+    <rect x="560" y="241" width="17" height="17" rx="3" fill="#00add8" />
+    <text x="568.5" y="253">GO</text>
+  </g>
+
+  <!-- ansi swatches -->
+  <g>
+    <rect x="300" y="418" width="30" height="16" fill="#3d4753" />
+    <rect x="336" y="418" width="30" height="16" fill="#ff6b63" />
+    <rect x="372" y="418" width="30" height="16" fill="#3fb950" />
+    <rect x="408" y="418" width="30" height="16" fill="#d7a521" />
+    <rect x="444" y="418" width="30" height="16" fill="#4f9ff5" />
+    <rect x="480" y="418" width="30" height="16" fill="#b07cff" />
+    <rect x="516" y="418" width="30" height="16" fill="#2bbfc9" />
+    <rect x="552" y="418" width="30" height="16" fill="#a8b3bf" />
+
+    <rect x="300" y="440" width="30" height="16" fill="#6e7681" />
+    <rect x="336" y="440" width="30" height="16" fill="#ffa198" />
+    <rect x="372" y="440" width="30" height="16" fill="#56d364" />
+    <rect x="408" y="440" width="30" height="16" fill="#e3b341" />
+    <rect x="444" y="440" width="30" height="16" fill="#79c0ff" />
+    <rect x="480" y="440" width="30" height="16" fill="#d2a8ff" />
+    <rect x="516" y="440" width="30" height="16" fill="#56d4dd" />
+    <rect x="552" y="440" width="30" height="16" fill="#f0f6fc" />
+  </g>
+
+  <!-- prompt -->
+  <text x="300" y="500" font-size="14.5">
+    <tspan fill="#2ee6a8" font-weight="bold">❯</tspan>
+    <tspan fill="#c3ccd6" xml:space="preserve"> fastfetch</tspan>
+    <tspan fill="#2ee6a8">▊</tspan>
+  </text>
+</svg>
