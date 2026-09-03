@@ -1,6 +1,24 @@
-By day, I’m building next-gen software for the automotive industry — shaping digital workflows and data systems that keep vehicles and documentation in motion.
-By night, I craft sleek web apps with TypeScript, Next.js, React, and Prisma on PostgreSQL — all styled with Tailwind and shipped in Docker containers.
+```
+$ fastfetch
 
- Currently working on OxiRun, just-t, just-jx, better-htmx and gox
-
- Learning Golang
+            .:-----:.                ixexel@cachyos
+         .-===========-.             ----------------------------------------
+       :=================:           OS ............ CachyOS x86_64
+      -===================-          Host .......... Lenovo ThinkPad P14s (AMD)
+     -=====:.       .:=====-         Kernel ........ linux-cachyos-bore
+    -====:               ...
+   :====-                            Pronouns ...... he/him
+  .=====.                            Languages ..... German, English
+  -====:                             Code .......... TypeScript, Go
+  =====.                             Stack ......... Next.js, Tailwind CSS, shadcn/ui
+  =====.                             .................. better-auth, Prisma, PostgreSQL
+  -====:
+  .=====.                            Day Job ....... Next-gen automotive software
+   :====-                            Night Shift ... Sleek web apps, shipped in Docker
+    -====:               ...         Working On .... OxiRun, just-t, just-jx,
+     -=====:.       .:=====-         .................. nyde
+      -===================-          Learning ...... Golang
+       :=================:
+         .-===========-.             ███ ███ ███ ███ ███ ███ ███ ███
+            .:-----:.                ███ ███ ███ ███ ███ ███ ███ ███
+```
